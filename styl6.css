@@ -1,0 +1,35 @@
+body{
+    margin: 0 auto;
+    font-family: Georgia;
+}
+#pierwszy,#drugi{
+    width: 40%;
+    height: 100px;
+    color: white;
+    background-color: #3CB371;
+    float: left;
+}
+#trzeci{
+    background-color: #3CB371;
+    float: left;
+    width: 20%;
+    height: 100px;
+}
+#main{
+    background-color: #FFDAB9;
+    width: 170px;
+    height: 90px;
+    margin: 5px;
+    border: 1px solid #3CB371;
+    clear: both;
+}
+footer{
+    background-color: #3CB371;
+    color: white;
+}
+h6{
+    text-align: right;
+}
+form{
+    padding: 30px;
+}
